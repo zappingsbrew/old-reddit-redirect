@@ -11,6 +11,7 @@
 // @downloadURL  https://raw.githubusercontent.com/zappingsbrew/old-reddit-redirect/main/old-reddit-redirect.user.js
 // @grant        none
 // @run-at       document-start
+// @license      MIT
 // ==/UserScript==
 
 /*!
