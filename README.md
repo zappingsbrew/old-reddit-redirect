@@ -10,6 +10,12 @@ A simple Tampermonkey userscript that automatically redirects `old.reddit.com` t
 4. Save the script.
 5. Visit any `old.reddit.com` page and it will redirect automatically to `www.reddit.com`.
 
+## Links
+
+- [Greasy Fork](https://greasyfork.org/en/scripts/556696-old-reddit-redirect) – Official Tampermonkey install page  
+- [OpenUserJS](https://openuserjs.org/scripts/Zappingsbrew/Old_Reddit_Redirect) – Alternative install page  
+- [GitHub](https://github.com/zappingsbrew/old-reddit-redirect) – Repository and source code
+
 ## Features
 
 - Preserves full URLs (subreddit, posts, comments, queries, hashes).  
